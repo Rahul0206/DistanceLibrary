@@ -1,10 +1,9 @@
-apply plugin:
-'com.android.library'
+apply plugin: 'com.android.application'
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
     defaultConfig {
-        /*applicationId "rahulsharma.distancecalculation"*/
+        applicationId "rahulsharma.distancecalculation"
         minSdkVersion 11
         targetSdkVersion 25
         versionCode 1
