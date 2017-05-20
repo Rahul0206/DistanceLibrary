@@ -35,7 +35,7 @@ dependencies {
 
 }
 
-ext {
+/*ext {
     bintrayRepo = 'maven'
     bintrayName = 'distancecalculationlibrary'   // Has to be same as your library module name
 
@@ -62,5 +62,5 @@ ext {
 }
 
 apply from: 'https://raw.githubusercontent.com/nisrulz/JCenter/master/installv1.gradle'
-apply from: 'https://raw.githubusercontent.com/nisrulz/JCenter/master/bintrayv1.gradle'
+apply from: 'https://raw.githubusercontent.com/nisrulz/JCenter/master/bintrayv1.gradle'*/
 
